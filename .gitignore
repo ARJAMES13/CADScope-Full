@@ -1,0 +1,28 @@
+# Frontend generated files
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/Node/
+
+# Backend generated/local files
+backend/venv/
+backend/__pycache__/
+backend/uploads/
+backend/converted/
+*.pyc
+
+# Env/cache
+.env
+.env.local
+frontend/.env
+frontend/.env.local
+backend/.env
+
+# OS/editor
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Optional local scripts
+run_project.bat
